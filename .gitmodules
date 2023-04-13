@@ -1,0 +1,3 @@
+[submodule "lib/calculator"]
+	path = lib/calculator
+	url = https://github.com/Arathes/Git_Submodule.git
